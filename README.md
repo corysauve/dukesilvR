@@ -19,24 +19,24 @@ You can install the development version from
 devtools::install_github("corysauve/dukesilvR")
 ```
 
-## Swansonisms
+## Swanson-isms
 
-To get a swansonism, simply:
+To get a Swanson-ism, simply:
 
 ``` r
 library(dukesilvR)
 ron_says()
-#> [1] "When people get too chummy with me, I like to call them by the wrong name to let them know I don't really care about them."
+#> [1] "I regret nothing. The end."
 ```
 
-`ron_says()` returns one swansonism by default. If you want multiple,
-simply define them with `n=`:
+`ron_says()` returns one quote by default. If you want multiple, simply
+define them with `n=`:
 
 ``` r
 ron_says(3)
-#> [1] "I call this turf 'n' turf. It's a 16-ounce T-bone and a 24-ounce porterhouse. Also, whiskey and a cigar. I am going to consume all of this at the same time because I am a free American."                                                 
-#> [2] "On my deathbed, my final wish is to have my ex-wives rush to my side so I can use my dying breath to tell them both to go to hell one last time."                                                                                          
-#> [3] "That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art."
+#> [1] "Just give me all the bacon and eggs you have. Wait ... I worry what you heard was, 'Give me a lot of bacon and eggs.' What I said was give me all the bacon and eggs you have. Do you understand?"
+#> [2] "Live your life how you want, but don't confuse drama with happiness."                                                                                                                             
+#> [3] "When I walked in this morning and saw that the flag was half-mast, I thought 'All right, another bureacrat ate it!"
 ```
 
 ## After more Parks and Rec content?

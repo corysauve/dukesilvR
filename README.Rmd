@@ -28,15 +28,15 @@ You can install the development version from [GitHub](https://github.com/) with:
 # install.packages("devtools")
 devtools::install_github("corysauve/dukesilvR")
 ```
-## Swansonisms
+## Swanson-isms
 
-To get a swansonism, simply:
+To get a Swanson-ism, simply:
 ```{r example}
 library(dukesilvR)
 ron_says()
 ```
 
-`ron_says()` returns one swansonism by default. If you want multiple, simply define them with `n=`:
+`ron_says()` returns one quote by default. If you want multiple, simply define them with `n=`:
 ```{r}
 ron_says(3)
 ```
