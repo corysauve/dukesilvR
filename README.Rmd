@@ -20,6 +20,10 @@ knitr::opts_chunk$set(
 
 This package has one goal: to spread the word of Ron Swanson.
 
+```{r echo=FALSE}
+knitr::include_graphics(here::here("inst/img", "pyramid.jpg"))
+```
+
 ## Installation
 
 You can install the development version from [GitHub](https://github.com/) with:

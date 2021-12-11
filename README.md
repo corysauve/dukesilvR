@@ -7,7 +7,10 @@
 
 <!-- badges: end -->
 
-This package has one goal: to spread the word of Ron Swanson.
+This package has one goal: to spread the word of Ron
+Swanson.
+
+<img src="/Users/corysauve/Desktop/code/dukesilvR/inst/img/pyramid.jpg" width="100%" />
 
 ## Installation
 
@@ -26,7 +29,7 @@ To get a Swanson-ism, simply:
 ``` r
 library(dukesilvR)
 ron_says()
-#> [1] "I regret nothing. The end."
+#> [1] "People are idiots, Leslie."
 ```
 
 `ron_says()` returns one quote by default. If you want multiple, simply
@@ -34,9 +37,9 @@ define them with `n=`:
 
 ``` r
 ron_says(3)
-#> [1] "Just give me all the bacon and eggs you have. Wait ... I worry what you heard was, 'Give me a lot of bacon and eggs.' What I said was give me all the bacon and eggs you have. Do you understand?"
-#> [2] "Live your life how you want, but don't confuse drama with happiness."                                                                                                                             
-#> [3] "When I walked in this morning and saw that the flag was half-mast, I thought 'All right, another bureacrat ate it!"
+#> [1] "Great job, everyone. The reception will be held in each of our individual houses, alone."                  
+#> [2] "The government is a greedy piglet that suckles on a taxpayers' teat until they have sore, chapped nipples."
+#> [3] "Any dog under 50 pounds is a cat, and cats are useless."
 ```
 
 ## After more Parks and Rec content?
