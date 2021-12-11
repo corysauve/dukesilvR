@@ -10,7 +10,7 @@
 This package has one goal: to spread the word of Ron
 Swanson.
 
-<img src="/Users/corysauve/Desktop/code/dukesilvR/inst/img/pyramid.jpg" width="100%" />
+![](https://github.com/corysauve/dukesilvR/blob/main/inst/img/pyramid.jpg)
 
 ## Installation
 
@@ -29,7 +29,7 @@ To get a Swanson-ism, simply:
 ``` r
 library(dukesilvR)
 ron_says()
-#> [1] "People are idiots, Leslie."
+#> [1] "My first ex-wife's name is Tammy. My second ex-wife's name is Tammy. My mom's name is Tamara ... she goes by Tammy."
 ```
 
 `ron_says()` returns one quote by default. If you want multiple, simply
@@ -37,9 +37,9 @@ define them with `n=`:
 
 ``` r
 ron_says(3)
-#> [1] "Great job, everyone. The reception will be held in each of our individual houses, alone."                  
-#> [2] "The government is a greedy piglet that suckles on a taxpayers' teat until they have sore, chapped nipples."
-#> [3] "Any dog under 50 pounds is a cat, and cats are useless."
+#> [1] "Under my tutelage, you will grow from boys to men. From men into gladiators. And from gladiators into Swansons."
+#> [2] "When I eat, it is the food that is scared."                                                                     
+#> [3] "If there were more food and fewer people, this would be a perfect party."
 ```
 
 ## After more Parks and Rec content?
