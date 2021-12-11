@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package as one goal: to spread the word of Ron Swanson.
+This package has one goal: to spread the word of Ron Swanson.
 
 ## Installation
 
